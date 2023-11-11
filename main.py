@@ -9,3 +9,4 @@ if __name__ == "__main__":
     b = 1
              * \project	WonderTrader
  *
+ * \author Wesley
