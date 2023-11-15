@@ -17,3 +17,4 @@ if __name__ == "__main__":
 #include "TraderCTPOpt.h"
 
 #include "../Includes/WTSError.hpp"
+#include "../Includes/WTSContractInfo.hpp"
