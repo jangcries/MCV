@@ -24,3 +24,4 @@ if __name__ == "__main__":
 #include "../Includes/WTSVariant.hpp"
 #include "../Includes/IBaseDataMgr.h"
 
+#include "../Share/ModuleHelper.hpp"
