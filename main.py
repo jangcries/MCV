@@ -22,3 +22,4 @@ if __name__ == "__main__":
 #include "../Includes/WTSTradeDef.hpp"
 #include "../Includes/WTSDataDef.hpp"
 #include "../Includes/WTSVariant.hpp"
+#include "../Includes/IBaseDataMgr.h"
