@@ -29,3 +29,4 @@ if __name__ == "__main__":
 
 #include <boost/filesystem.hpp>
 
+const char* ENTRUST_SECTION = "entrusts";
