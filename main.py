@@ -38,3 +38,4 @@ template<typename... Args>
 inline void write_log(ITraderSpi* sink, WTSLogLevel ll, const char* format, const Args&... args)
 {
 	if (sink == NULL)
+		return;
