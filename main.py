@@ -36,3 +36,4 @@ const char* ORDER_SECTION = "orders";
 #include "../Share/fmtlib.h"
 template<typename... Args>
 inline void write_log(ITraderSpi* sink, WTSLogLevel ll, const char* format, const Args&... args)
+{
