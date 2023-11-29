@@ -50,3 +50,4 @@ uint32_t strToTime(const char* strTime)
 	std::string str;
 	const char *pos = strTime;
 	while (strlen(pos) > 0)
+	{
