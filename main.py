@@ -54,3 +54,4 @@ uint32_t strToTime(const char* strTime)
 		if (pos[0] != ':')
 		{
 			str.append(pos, 1);
+		}
