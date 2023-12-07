@@ -62,3 +62,4 @@ uint32_t strToTime(const char* strTime)
 }
 
 extern "C"
+{
