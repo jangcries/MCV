@@ -71,3 +71,4 @@ extern "C"
 
 	EXPORT_FLAG void deleteTrader(ITraderApi* &trader)
 	{
+		if (NULL != trader)
