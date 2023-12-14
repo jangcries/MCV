@@ -77,3 +77,4 @@ extern "C"
 			trader = NULL;
 		}
 	}
+}
