@@ -75,3 +75,4 @@ extern "C"
 		{
 			delete trader;
 			trader = NULL;
+		}
