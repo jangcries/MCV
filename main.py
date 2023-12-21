@@ -82,3 +82,4 @@ extern "C"
 inline int wrapDirectionType(WTSDirectionType dirType, WTSOffsetType offsetType)
 {
 	if (WDT_LONG == dirType)
+		if (offsetType == WOT_OPEN)
