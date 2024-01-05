@@ -106,3 +106,4 @@ inline int wrapPosDirType(WTSDirectionType dirType)
 inline WTSDirectionType wrapPosDirType(TThostFtdcPosiDirectionType dirType)
 {
 	if (THOST_FTDC_PD_Long == dirType)
+		return WDT_LONG;
