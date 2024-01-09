@@ -113,3 +113,4 @@ inline WTSDirectionType wrapPosDirType(TThostFtdcPosiDirectionType dirType)
 		return WDT_NET;
 }
 
+
