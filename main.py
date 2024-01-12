@@ -119,3 +119,4 @@ inline WTSDirectionType wrapDirectionType(TThostFtdcDirectionType dirType, TThos
 	if (THOST_FTDC_D_Buy == dirType)
 		if (offsetType == THOST_FTDC_OF_Open)
 			return WDT_LONG;
+		else
