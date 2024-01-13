@@ -120,3 +120,4 @@ inline WTSDirectionType wrapDirectionType(TThostFtdcDirectionType dirType, TThos
 		if (offsetType == THOST_FTDC_OF_Open)
 			return WDT_LONG;
 		else
+			return WDT_SHORT;
