@@ -128,3 +128,4 @@ inline WTSDirectionType wrapDirectionType(TThostFtdcDirectionType dirType, TThos
 			return WDT_LONG;
 }
 
+inline WTSDirectionType wrapPosDirection(TThostFtdcPosiDirectionType dirType)
