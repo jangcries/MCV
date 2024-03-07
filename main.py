@@ -132,3 +132,4 @@ inline WTSDirectionType wrapPosDirection(TThostFtdcPosiDirectionType dirType)
 {
 	if (THOST_FTDC_PD_Long == dirType)
 		return WDT_LONG;
+	else
