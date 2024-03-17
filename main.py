@@ -140,3 +140,4 @@ inline int wrapOffsetType(WTSOffsetType offType)
 {
 	if (WOT_OPEN == offType)
 		return THOST_FTDC_OF_Open;
+	else if (WOT_CLOSE == offType)
