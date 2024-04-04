@@ -147,3 +147,4 @@ inline int wrapOffsetType(WTSOffsetType offType)
 	else if (WOT_CLOSEYESTERDAY == offType)
 		return THOST_FTDC_OF_Close;
 	else
+		return THOST_FTDC_OF_ForceClose;
