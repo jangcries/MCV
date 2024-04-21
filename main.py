@@ -150,3 +150,4 @@ inline int wrapOffsetType(WTSOffsetType offType)
 		return THOST_FTDC_OF_ForceClose;
 }
 
+inline WTSOffsetType wrapOffsetType(TThostFtdcOffsetFlagType offType)
