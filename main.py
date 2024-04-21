@@ -149,3 +149,4 @@ inline int wrapOffsetType(WTSOffsetType offType)
 	else
 		return THOST_FTDC_OF_ForceClose;
 }
+
