@@ -151,3 +151,4 @@ inline int wrapOffsetType(WTSOffsetType offType)
 }
 
 inline WTSOffsetType wrapOffsetType(TThostFtdcOffsetFlagType offType)
+{
