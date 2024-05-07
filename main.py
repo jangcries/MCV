@@ -156,3 +156,4 @@ inline WTSOffsetType wrapOffsetType(TThostFtdcOffsetFlagType offType)
 		return WOT_OPEN;
 	else if (THOST_FTDC_OF_Close == offType)
 		return WOT_CLOSE;
+	else if (THOST_FTDC_OF_CloseToday == offType)
