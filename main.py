@@ -161,3 +161,4 @@ inline WTSOffsetType wrapOffsetType(TThostFtdcOffsetFlagType offType)
 	else
 		return WOT_FORCECLOSE;
 }
+
