@@ -165,3 +165,4 @@ inline WTSOffsetType wrapOffsetType(TThostFtdcOffsetFlagType offType)
 inline int wrapPriceType(WTSPriceType priceType, bool isCFFEX /* = false */)
 {
 	if (WPT_ANYPRICE == priceType)
+		return isCFFEX ? THOST_FTDC_OPT_FiveLevelPrice : THOST_FTDC_OPT_AnyPrice;
