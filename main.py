@@ -162,3 +162,4 @@ inline WTSOffsetType wrapOffsetType(TThostFtdcOffsetFlagType offType)
 		return WOT_FORCECLOSE;
 }
 
+inline int wrapPriceType(WTSPriceType priceType, bool isCFFEX /* = false */)
