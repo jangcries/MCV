@@ -170,3 +170,4 @@ inline int wrapPriceType(WTSPriceType priceType, bool isCFFEX /* = false */)
 		return THOST_FTDC_OPT_LimitPrice;
 	else if (WPT_BESTPRICE == priceType)
 		return THOST_FTDC_OPT_BestPrice;
+	else
