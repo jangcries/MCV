@@ -175,3 +175,4 @@ inline int wrapPriceType(WTSPriceType priceType, bool isCFFEX /* = false */)
 }
 
 inline WTSPriceType wrapPriceType(TThostFtdcOrderPriceTypeType priceType)
+{
