@@ -176,3 +176,4 @@ inline int wrapPriceType(WTSPriceType priceType, bool isCFFEX /* = false */)
 
 inline WTSPriceType wrapPriceType(TThostFtdcOrderPriceTypeType priceType)
 {
+	if (THOST_FTDC_OPT_AnyPrice == priceType || THOST_FTDC_OPT_FiveLevelPrice == priceType)
