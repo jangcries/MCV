@@ -181,3 +181,4 @@ inline WTSPriceType wrapPriceType(TThostFtdcOrderPriceTypeType priceType)
 	else if (THOST_FTDC_OPT_LimitPrice == priceType)
 		return WPT_LIMITPRICE;
 	else if (THOST_FTDC_OPT_BestPrice == priceType)
+		return WPT_BESTPRICE;
