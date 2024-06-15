@@ -184,3 +184,4 @@ inline WTSPriceType wrapPriceType(TThostFtdcOrderPriceTypeType priceType)
 		return WPT_BESTPRICE;
 	else
 		return WPT_LASTPRICE;
+}
