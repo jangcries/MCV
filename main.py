@@ -186,3 +186,4 @@ inline WTSPriceType wrapPriceType(TThostFtdcOrderPriceTypeType priceType)
 		return WPT_LASTPRICE;
 }
  * \author Wesley
+ * \date 2020/03/30
