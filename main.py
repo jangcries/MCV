@@ -189,3 +189,4 @@ inline WTSPriceType wrapPriceType(TThostFtdcOrderPriceTypeType priceType)
  * \date 2020/03/30
  * 
  * \brief 
+ */
