@@ -185,3 +185,4 @@ inline WTSPriceType wrapPriceType(TThostFtdcOrderPriceTypeType priceType)
 	else
 		return WPT_LASTPRICE;
 }
+ * \author Wesley
