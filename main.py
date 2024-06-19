@@ -191,3 +191,4 @@ inline WTSPriceType wrapPriceType(TThostFtdcOrderPriceTypeType priceType)
  * \brief 
  */
 #include "TraderCTPOpt.h"
+
