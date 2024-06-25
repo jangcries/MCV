@@ -192,3 +192,4 @@ inline WTSPriceType wrapPriceType(TThostFtdcOrderPriceTypeType priceType)
  */
 #include "TraderCTPOpt.h"
 
+#include "../Includes/WTSError.hpp"
