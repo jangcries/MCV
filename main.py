@@ -202,3 +202,4 @@ inline WTSPriceType wrapPriceType(TThostFtdcOrderPriceTypeType priceType)
 
 #include "../Share/ModuleHelper.hpp"
 #include "../Share/decimal.h"
+
