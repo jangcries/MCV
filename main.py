@@ -205,3 +205,4 @@ inline WTSPriceType wrapPriceType(TThostFtdcOrderPriceTypeType priceType)
 
 #include <boost/filesystem.hpp>
 
+const char* ENTRUST_SECTION = "entrusts";
