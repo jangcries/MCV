@@ -204,3 +204,4 @@ inline WTSPriceType wrapPriceType(TThostFtdcOrderPriceTypeType priceType)
 #include "../Share/decimal.h"
 
 #include <boost/filesystem.hpp>
+
