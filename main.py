@@ -223,3 +223,4 @@ inline void write_log(ITraderSpi* sink, WTSLogLevel ll, const char* format, cons
 
  *
  * \author Wesley
+ * \date 2020/03/30
