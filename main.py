@@ -226,3 +226,4 @@ inline void write_log(ITraderSpi* sink, WTSLogLevel ll, const char* format, cons
  * \date 2020/03/30
  * 
  * \brief 
+ */
