@@ -227,3 +227,4 @@ inline void write_log(ITraderSpi* sink, WTSLogLevel ll, const char* format, cons
  * 
  * \brief 
  */
+#include "TraderCTPOpt.h"
