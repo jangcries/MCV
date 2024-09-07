@@ -230,3 +230,4 @@ inline void write_log(ITraderSpi* sink, WTSLogLevel ll, const char* format, cons
 #include "TraderCTPOpt.h"
 
 #include "../Includes/WTSError.hpp"
+#include "../Includes/WTSContractInfo.hpp"
