@@ -236,3 +236,4 @@ inline void write_log(ITraderSpi* sink, WTSLogLevel ll, const char* format, cons
 #include "../Includes/WTSDataDef.hpp"
 #include "../Includes/WTSVariant.hpp"
 #include "../Includes/IBaseDataMgr.h"
+
