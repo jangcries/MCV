@@ -238,3 +238,4 @@ inline void write_log(ITraderSpi* sink, WTSLogLevel ll, const char* format, cons
 #include "../Includes/IBaseDataMgr.h"
 
 #include "../Share/ModuleHelper.hpp"
+#include "../Share/decimal.h"
