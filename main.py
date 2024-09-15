@@ -240,3 +240,4 @@ inline void write_log(ITraderSpi* sink, WTSLogLevel ll, const char* format, cons
 #include "../Share/ModuleHelper.hpp"
 #include "../Share/decimal.h"
 
+#include <boost/filesystem.hpp>
