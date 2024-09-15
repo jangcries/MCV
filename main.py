@@ -242,3 +242,4 @@ inline void write_log(ITraderSpi* sink, WTSLogLevel ll, const char* format, cons
 
 #include <boost/filesystem.hpp>
 
+const char* ENTRUST_SECTION = "entrusts";
