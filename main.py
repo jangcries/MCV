@@ -245,3 +245,4 @@ inline void write_log(ITraderSpi* sink, WTSLogLevel ll, const char* format, cons
 const char* ENTRUST_SECTION = "entrusts";
 const char* ORDER_SECTION = "orders";
 
+//By Wesley @ 2022.01.05
