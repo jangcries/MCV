@@ -247,3 +247,4 @@ const char* ORDER_SECTION = "orders";
 
 //By Wesley @ 2022.01.05
 #include "../Share/fmtlib.h"
+template<typename... Args>
