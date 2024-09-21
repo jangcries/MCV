@@ -254,3 +254,4 @@ inline void write_log(ITraderSpi* sink, WTSLogLevel ll, const char* format, cons
 		return;
 
 	const char* buffer = fmtutil::format(format, args...);
+
