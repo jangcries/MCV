@@ -276,3 +276,4 @@ uint32_t strToTime(const char* strTime)
 
 extern "C"
 {
+	EXPORT_FLAG ITraderApi* createTrader()
