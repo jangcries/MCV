@@ -286,3 +286,4 @@ extern "C"
 	{
 		if (NULL != trader)
 		{
+			delete trader;
