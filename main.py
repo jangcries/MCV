@@ -306,3 +306,4 @@ inline int wrapDirectionType(WTSDirectionType dirType, WTSOffsetType offsetType)
 			return THOST_FTDC_D_Buy;
 }
 
+inline int wrapPosDirType(WTSDirectionType dirType)
