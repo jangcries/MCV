@@ -308,3 +308,4 @@ inline int wrapDirectionType(WTSDirectionType dirType, WTSOffsetType offsetType)
 
 inline int wrapPosDirType(WTSDirectionType dirType)
 {
+	if (WDT_LONG == dirType)
