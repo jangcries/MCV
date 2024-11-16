@@ -317,3 +317,4 @@ inline int wrapPosDirType(WTSDirectionType dirType)
 }
 
 inline WTSDirectionType wrapPosDirType(TThostFtdcPosiDirectionType dirType)
+{
