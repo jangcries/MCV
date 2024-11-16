@@ -315,3 +315,4 @@ inline int wrapPosDirType(WTSDirectionType dirType)
 	else
 		return THOST_FTDC_PD_Net;
 }
+
