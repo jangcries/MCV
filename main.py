@@ -320,3 +320,4 @@ inline WTSDirectionType wrapPosDirType(TThostFtdcPosiDirectionType dirType)
 {
 	if (THOST_FTDC_PD_Long == dirType)
  * \project	WonderTrader
+ *
