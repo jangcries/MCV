@@ -323,3 +323,4 @@ inline WTSDirectionType wrapPosDirType(TThostFtdcPosiDirectionType dirType)
  *
  * \author Wesley
  * \date 2020/03/30
+ * 
