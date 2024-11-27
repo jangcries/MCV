@@ -328,3 +328,4 @@ inline WTSDirectionType wrapPosDirType(TThostFtdcPosiDirectionType dirType)
  */
 #include "TraderCTPOpt.h"
 
+#include "../Includes/WTSError.hpp"
