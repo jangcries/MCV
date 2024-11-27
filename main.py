@@ -327,3 +327,4 @@ inline WTSDirectionType wrapPosDirType(TThostFtdcPosiDirectionType dirType)
  * \brief 
  */
 #include "TraderCTPOpt.h"
+
