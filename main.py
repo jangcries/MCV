@@ -341,3 +341,4 @@ inline WTSDirectionType wrapPosDirType(TThostFtdcPosiDirectionType dirType)
 
 #include <boost/filesystem.hpp>
 
+const char* ENTRUST_SECTION = "entrusts";
