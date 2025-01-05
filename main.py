@@ -359,3 +359,4 @@ inline void write_log(ITraderSpi* sink, WTSLogLevel ll, const char* format, cons
 
 uint32_t strToTime(const char* strTime)
 {
+	std::string str;
