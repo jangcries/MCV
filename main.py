@@ -363,3 +363,4 @@ uint32_t strToTime(const char* strTime)
 	const char *pos = strTime;
 	while (strlen(pos) > 0)
 	{
+		if (pos[0] != ':')
