@@ -368,3 +368,4 @@ uint32_t strToTime(const char* strTime)
 			str.append(pos, 1);
 		}
 		pos++;
+	}
