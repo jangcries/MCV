@@ -372,3 +372,4 @@ uint32_t strToTime(const char* strTime)
 
 	return strtoul(str.c_str(), NULL, 10);
 }
+
