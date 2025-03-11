@@ -381,3 +381,4 @@ extern "C"
 		return instance;
 	}
 
+	EXPORT_FLAG void deleteTrader(ITraderApi* &trader)
