@@ -389,3 +389,4 @@ extern "C"
 			trader = NULL;
 		}
 	}
+}
