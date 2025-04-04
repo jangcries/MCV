@@ -392,3 +392,4 @@ extern "C"
 }
 
 inline int wrapDirectionType(WTSDirectionType dirType, WTSOffsetType offsetType)
+{
