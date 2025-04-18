@@ -410,3 +410,4 @@ inline int wrapPosDirType(WTSDirectionType dirType)
 	if (WDT_LONG == dirType)
 		return THOST_FTDC_PD_Long;
 	else if (WDT_SHORT == dirType)
+		return THOST_FTDC_PD_Short;
