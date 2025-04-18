@@ -415,3 +415,4 @@ inline int wrapPosDirType(WTSDirectionType dirType)
 		return THOST_FTDC_PD_Net;
 }
 
+inline WTSDirectionType wrapPosDirType(TThostFtdcPosiDirectionType dirType)
