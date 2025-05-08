@@ -435,3 +435,4 @@ inline WTSDirectionType wrapPosDirType(TThostFtdcPosiDirectionType dirType)
 #include "../Includes/WTSVariant.hpp"
 #include "../Includes/IBaseDataMgr.h"
 
+#include "../Share/ModuleHelper.hpp"
