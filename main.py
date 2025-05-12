@@ -439,3 +439,4 @@ inline WTSDirectionType wrapPosDirType(TThostFtdcPosiDirectionType dirType)
 #include "../Share/decimal.h"
 
 #include <boost/filesystem.hpp>
+
