@@ -456,3 +456,4 @@ inline void write_log(ITraderSpi* sink, WTSLogLevel ll, const char* format, cons
 	sink->handleTraderLog(ll, buffer);
 }
 
+uint32_t strToTime(const char* strTime)
