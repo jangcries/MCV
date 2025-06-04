@@ -469,3 +469,4 @@ uint32_t strToTime(const char* strTime)
 		pos++;
 	}
 
+	return strtoul(str.c_str(), NULL, 10);
