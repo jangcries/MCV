@@ -477,3 +477,4 @@ extern "C"
 	EXPORT_FLAG ITraderApi* createTrader()
 	{
 		TraderCTPOpt *instance = new TraderCTPOpt();
+		return instance;
