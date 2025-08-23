@@ -478,3 +478,4 @@ extern "C"
 	{
 		TraderCTPOpt *instance = new TraderCTPOpt();
 		return instance;
+	}
