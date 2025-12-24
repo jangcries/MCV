@@ -497,3 +497,4 @@ inline int wrapDirectionType(WTSDirectionType dirType, WTSOffsetType offsetType)
 			return THOST_FTDC_D_Buy;
 		else
 			return THOST_FTDC_D_Sell;
+	else
