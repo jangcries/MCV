@@ -498,3 +498,4 @@ inline int wrapDirectionType(WTSDirectionType dirType, WTSOffsetType offsetType)
 		else
 			return THOST_FTDC_D_Sell;
 	else
+		if (offsetType == WOT_OPEN)
